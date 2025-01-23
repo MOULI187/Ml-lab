@@ -1,2 +1,2 @@
 # ML-LAB
-#Activity detection using Weizmann Dataset
+Activity detection using Weizmann Dataset
